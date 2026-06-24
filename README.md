@@ -1,6 +1,8 @@
 
 # E-Commerce Sales Analytics Dashboard
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Project Overview
 Interactive sales analytics dashboard analyzing 99,000+ real e-commerce 
 transactions from Olist, a Brazilian marketplace.
